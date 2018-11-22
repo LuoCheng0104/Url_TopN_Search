@@ -2,8 +2,8 @@ import java.io.*;
 
 public class FileHashSplit {
     /**
-     * 将大文件通过读入，根据url的hash值的后三位将出现url
-     * 分别放入不同的1000个文件，，这样保证了同一个url
+     * 将大文件通过读入，根据url的hash值的后三位，将出现url
+     * 分别放入不同的1000个文件，这样保证了同一个url
      * 在同一个文件中
      * @param src 大文件的路径
      * @param des 小文件的保存路径

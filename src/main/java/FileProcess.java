@@ -5,7 +5,7 @@ import java.io.RandomAccessFile;
 
 public class FileProcess {
     /**
-     * 将文件随机风格，在此工程中没有用
+     * 将文件随机分割，在此工程中没有用
      * @param srcpath
      * @param despath
      * @param nums
